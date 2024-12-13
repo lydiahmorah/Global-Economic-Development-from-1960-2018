@@ -1,5 +1,5 @@
 # Global-Economic-Development-from-1960-2018
-![Uploading pic.JPG…]()
+![image](https://github.com/user-attachments/assets/fa84148c-28e4-4e1b-82b1-1236e80b1f5b)
 
 For a comprehensive and engaging README for your project, here's a suggested outline that captures the key elements, making it informative and accessible for potential users and contributors.
 
