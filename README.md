@@ -2,7 +2,6 @@
 ![Hero Image](pic.JPG)
 
 
-For a comprehensive and engaging README for your project, here's a suggested outline that captures the key elements, making it informative and accessible for potential users and contributors.
 
 ---
 
